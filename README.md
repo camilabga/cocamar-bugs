@@ -1,2 +1,2 @@
-# Classifying Soy Plages using Convolutionl Neural Networks
+# Classifying Soy Plages using Convolutional Neural Networks
 
